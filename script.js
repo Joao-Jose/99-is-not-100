@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const text = "MAS CHEGAR A 100 NÃO É UM DELES!" // Insira o nome desejado aqui
+  const text = "CHEGAR A 100 NÃO É UM DELES!" // Insira o nome desejado aqui
   let index = 0
   let direction = 1 // 1 para digitar, -1 para apagar
 
