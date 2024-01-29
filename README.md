@@ -3,8 +3,7 @@
 </p>
 
 ## 🖥️Projeto
-Esse é um projeto Web responsivo e adaptado para um futuro portfólio com o método RocketSeat
-
+Esse é um projeto Web responsivo utilizando as tecnologias HTML CSS e JS
 ## Tecnologias
 Projeto desenvolvido durante o NLW Explorer usando as seguintes tecnologias
 -HTML
